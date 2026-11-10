@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<MidiSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SoundFonts>
+    <SoundFontInfo>
+      <Name>GeneralUser-GS-v2.0.1</Name>
+      <PatchCount>287</PatchCount>
+      <WaveCount>920</WaveCount>
+      <WaveSize>36724496</WaveSize>
+      <SF2Path>C:/Users/thier/AppData/LocalLow/MusIT/ScenesDemo\SoundFont\GeneralUser-GS-v2.0.1.sf2</SF2Path>
+    </SoundFontInfo>
+  </SoundFonts>
+  <IndexSelectedSF>0</IndexSelectedSF>
+  <MidiFiles>
+    <string>06MUS</string>
+    <string>D_DDTBL3</string>
+    <string>D_DEAD2</string>
+    <string>D_DOOM2</string>
+    <string>D_E1M2</string>
+    <string>D_E1M8</string>
+    <string>D_EVIL</string>
+    <string>D_ROMER2</string>
+    <string>D_RUNNIN</string>
+    <string>D_RUNNIN (2)</string>
+    <string>D_SHAWN</string>
+    <string>D_STALKS</string>
+    <string>D_STALKS (3)</string>
+    <string>D_STLKS3</string>
+    <string>D_THUNDA</string>
+  </MidiFiles>
+</MidiSet>
